@@ -9,6 +9,8 @@ int main() {
 
     if (file.is_open()) {
         std::cout << "File opened successfully" << std::endl;
+    } else {
+        std::cout << "File could not be opened" << std::endl;
     }
 
     std::vector<std::string> names;
