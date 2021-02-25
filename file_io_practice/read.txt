@@ -1,5 +1,5 @@
-Toby
-Aziz
-Jamshid
-Ivan
-Andrea
+Toby is the toby
+Aziz is good at Go
+Jamshid is the bawss
+Ivan is this guy
+Andrea is new hello!
